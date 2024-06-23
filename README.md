@@ -22,7 +22,7 @@ The HTLC contract allows for secure and conditional payment using a secret key a
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/angeYobo/htlc-contract-aiken.git
+    git clone https://github.com/USERNAME/REPO_NAME.git
     cd REPO_NAME
     ```
 
