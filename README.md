@@ -33,7 +33,7 @@ The HTLC contract allows for secure and conditional payment using a secret key a
 3. Run tests:
 
     ```sh
-    aiken test
+    aiken check
     ```
 
 ## Contract Details
